@@ -1,2 +1,3 @@
 This is my new project.
-This document explains the implimentation of the project.
+This document explains the implementation of the project.
+
